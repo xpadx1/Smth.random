@@ -2,8 +2,8 @@ let str = 'microsoft Word';
 let newString = str.replace ('m' , 'M');
 console.log (newString , '\n' , '5th letter:' , newString[4])
 
-var k = 0;
-for (var i = 0; i < str.length; i++){
+let k = 0;
+for (let i = 0; i < str.length; i++){
   if(str[i] == "o"){
     k++
   }
