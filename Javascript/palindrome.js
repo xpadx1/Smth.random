@@ -13,4 +13,4 @@ function palindromeCheck(x){
     console.log(result)
 }
 
-palindromeCheck('Bob')
+palindromeCheck('рЕпПеР')
