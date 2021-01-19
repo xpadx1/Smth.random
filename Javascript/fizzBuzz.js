@@ -18,3 +18,10 @@ function fizzBuzz(num){
 const x = 12;
 fizzBuzz(x);
 
+/*
+
+- 'fizz' output instead of multiples of 3;
+- 'buzz' output instead of multiples of 5;
+- 'fizzbuzz' output instead of multiples of both 3 and 5.
+
+*/

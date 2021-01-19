@@ -20,3 +20,5 @@ function shuffle2(array) {
 let arr2 = [1, 2, 3];
 shuffle2(arr2)
 console.log('Second method: ' + arr2)
+
+// Randomly shuffles an array ( 2 methods )
