@@ -18,3 +18,5 @@ function search(arr, start, end){
 }
 const array = random(30);
 console.log(search(array, 15, 30));
+
+//Creates a random array with the chosen range of values

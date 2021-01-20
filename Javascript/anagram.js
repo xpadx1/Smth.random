@@ -21,3 +21,5 @@ function anagram(word1, word2){
 
 console.log(anagram('Finder','friend'));
 
+//The main pyrpose of this code is to check if two strings are anagrams
+

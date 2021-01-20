@@ -14,3 +14,5 @@ function palindromeCheck(x){
 }
 
 palindromeCheck('рЕпПеР')
+
+//Сhecks if a word is palindrome

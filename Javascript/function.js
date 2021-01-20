@@ -6,3 +6,6 @@ function search (string, stringSearch,stringReplace){
     }
 }
 const x = search('Hollywood', 'Wood', 'Land')
+
+
+//Replace the chosen part of the word with another word

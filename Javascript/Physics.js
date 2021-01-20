@@ -19,11 +19,7 @@ const random = (min, max) => {
       console.log( 'suma: ' + sumPeriod);
       console.log('{T}: ' + period);
       console.log('');
-      
-     
-      
-      
-  }
+}
   
   let x = random(15.70, 16.23);
   console.log(x);
