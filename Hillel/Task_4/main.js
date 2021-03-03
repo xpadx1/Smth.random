@@ -1,4 +1,5 @@
 let a = [1,2,3,4,5,6,7,8,9];
+console.log(a)
 const len = a.length
 let res = new Array();
 let arrays = [], size = 2;
