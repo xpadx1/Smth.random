@@ -53,5 +53,17 @@ function remove(string, letters){
 }
 console.log(remove('Let`s suck some dicks', ['s', 'e']))
 
+/*5*/
+const input = [1,2,3,4,5,6];
+function isEven(x) { return x % 2 === 0; }
+function filter(array, isEven){
+    let res = new Array;
+    array.forEach(function(arr, i){
+        if(isEven(array[i]) === true){res.push(array[i])};
+    })
+    return res;
+}
+console.log(filter(input, isEven));
+
 
 
